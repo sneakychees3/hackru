@@ -1,0 +1,11 @@
+.header-holder{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  max-width: 70rem;
+  margin:auto;
+}
+
+.header-holder ul{
+  display:flex;
+}
